@@ -1,4 +1,4 @@
-# `clayma-store`
+# `benedict-store`
 
 An ecommerce UI with React, no back-end integration
 
